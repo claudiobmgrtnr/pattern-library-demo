@@ -1,0 +1,27 @@
+{
+  "name": "pattern-library-demo",
+  "version": "1.0.0",
+  "description": "Used to demonstrate the pattern lib sync",
+  "main": "index.js",
+  "scripts": {
+    "sync-basic": "node syncpart1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiobmgrtnr/pattern-library-demo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudiobmgrtnr/pattern-library-demo/issues"
+  },
+  "homepage": "https://github.com/claudiobmgrtnr/pattern-library-demo#readme",
+  "dependencies": {
+    "@frontify/frontify-api": "^0.3.1",
+    "concat": "^1.0.3",
+    "globby": "^9.2.0",
+    "i": "^0.3.6",
+    "npm": "^6.9.0"
+  }
+}

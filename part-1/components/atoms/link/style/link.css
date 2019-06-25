@@ -1,0 +1,11 @@
+.a-link {
+  font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+  font-size: 21px;
+  text-decoration: none; 
+  color: #f16651;
+  transition: all 300ms;
+}
+
+.a-link:hover {
+  color: #60c7d6;
+}
