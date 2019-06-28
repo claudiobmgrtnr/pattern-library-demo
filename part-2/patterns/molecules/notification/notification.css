@@ -7,6 +7,10 @@
   width: 168px;
 }
 
+.notification-success {
+  border: 1px solid #e5e5e5;
+}
+
 .icon-first {
   width: 15px;
   fill: currentColor;

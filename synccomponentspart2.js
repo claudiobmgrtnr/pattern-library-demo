@@ -1,7 +1,4 @@
-const fs = require("fs");
 const frontifyApi = require("@frontify/frontify-api");
-const globby = require("globby");
-const concat = require("concat");
 
 (async () => {
   await frontifyApi.syncPatterns({
