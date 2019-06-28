@@ -1,0 +1,20 @@
+.notification {
+  display: flex;
+  border: 1px solid #e5e5e5;
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: #a8aab7;
+  width: 168px;
+}
+
+.icon-first {
+  width: 15px;
+  fill: currentColor;
+}
+
+.icon-close {
+  fill: currentColor;
+  width: 8px;
+  float: right;
+  padding-top: 3px;
+}

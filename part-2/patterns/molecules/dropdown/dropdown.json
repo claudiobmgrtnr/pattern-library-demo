@@ -1,0 +1,14 @@
+{
+  "name": "Dropdown",
+  "description": "A drop down to choose stuff",
+  "type": "molecule",
+  "stability": "stable",
+  "assets": {
+    "html": [
+      "part-2/patterns/molecules/dropdown/dropdown.html"
+    ],
+    "css": [
+      "part-2/patterns/molecules/dropdown/dropdown.css"
+    ]
+  }
+}

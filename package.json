@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "sync-basic": "node syncpart1.js",
+    "sync-assets-part-2": "node syncassetspart2.js",
+    "sync-components-2": "node synccomponentspart2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -1,0 +1,17 @@
+{
+  "name": "Message",
+  "description": "Message component that can be found inside of the inbox",
+  "type": "molecule",
+  "stability": "stable",
+  "assets": {
+    "html": [
+      "part-2/patterns/molecules/message/message.html"
+    ],
+    "css": [
+      "part-2/patterns/molecules/message/message.css"
+    ],
+    "js": [
+      "part-2/patterns/molecules/message/message.js"
+    ]
+  }
+}

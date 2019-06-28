@@ -1,0 +1,49 @@
+{
+  "name": "Notifications",
+  "description": "Displays notifications",
+  "type": "molecule",
+  "stability": "stable",
+  "variations": {
+    "success": {
+      "name": "Notification Success",
+      "assets": {
+        "html": [
+          "part-2/patterns/molecules/notification/notification-success.html"
+        ],
+        "css": [
+          "part-2/patterns/molecules/notification/notification.css"
+        ]
+      }
+    },
+    "error": {
+      "name": "Notification Error",
+      "assets": {
+        "html": [
+          "part-2/patterns/molecules/notification/notification-error.html"
+        ],
+        "css": [
+          "part-2/patterns/molecules/notification/notification.css"
+        ]
+      }
+    },
+    "info": {
+      "name": "Notification Warning",
+      "assets": {
+        "html": [
+          "part-2/patterns/molecules/notification/notification-info.html"
+        ],
+        "css": [
+          "part-2/patterns/molecules/notification/notification.css"
+        ]
+      }
+    }
+  },
+  "assets": {
+    "html": [
+      "part-2/patterns/molecules/notification/notification.html"
+    ],
+    "css": [
+      "part-2/patterns/molecules/notification/notification.css"
+    ]
+  }
+}

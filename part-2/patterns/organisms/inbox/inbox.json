@@ -1,0 +1,11 @@
+{
+  "name": "Inbox",
+  "description": "Inbox to see your messages",
+  "type": "Organism",
+  "stability": "stable",
+  "assets": {
+    "html": [
+      "part-2/patterns/organisms/inbox/inbox.html"
+    ]
+  }
+}

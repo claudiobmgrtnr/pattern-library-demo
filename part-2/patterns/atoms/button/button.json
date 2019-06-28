@@ -1,0 +1,14 @@
+{
+  "name": "Button",
+  "description": "Button to click",
+  "type": "atom",
+  "stability": "stable",
+  "assets": {
+    "html": [
+      "part-2/patterns/atoms/button/button.html"
+    ],
+    "css": [
+      "part-2/patterns/atoms/button/button.css"
+    ]
+  }
+}

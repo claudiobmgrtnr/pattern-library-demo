@@ -1,0 +1,32 @@
+.avatar-image {
+  border-radius: 100%;
+  float: left;
+}
+
+.value {
+  margin-left: 10px;
+  color: #2da2f8;
+  font-size: 13px;
+  font-family: sans-serif;
+}
+.drop-down {
+  display: flex;
+  border-bottom: 1px solid #e5e5e5;
+  padding: 5px 15px 5px 5px;
+  color: #a8aab7;
+  width: 220px;
+  background: #f0f4f8;
+  align-items: center;
+}
+
+.icon-first {
+  width: 15px;
+  fill: currentColor;
+}
+
+.icon-close {
+  fill: currentColor;
+  width: 8px;
+  padding-top: 3px;
+  margin-left: auto;
+}

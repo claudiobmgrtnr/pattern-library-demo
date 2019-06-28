@@ -1,0 +1,49 @@
+.button-rounded {
+  background:#ff4081;
+  border:none;
+  border-radius:2px;
+  color:#fff;
+  position:relative;
+  margin:0;
+  display:inline-block;
+  font-family:"Roboto","Helvetica","Arial",sans-serif;
+  font-size:14px;
+  font-weight:500;
+  text-transform:uppercase;
+  letter-spacing:0;
+  overflow:hidden;
+  will-change:box-shadow;
+  outline:none;
+  cursor:pointer;
+  text-decoration:none;
+  text-align:center;
+  vertical-align:middle;
+  font-size: 0;
+  width: 14px;
+  padding: 0;
+  width: 55px;
+  height: 55px;
+  border-radius: 100%;
+}
+
+.button-rounded:before {
+  content: "";
+  width: 14px;
+  height: 2px;
+  display: block;
+  background: #fff;
+  position: absolute;
+  transform: translate(-50%, 0);
+  left: 50%;
+}
+
+.button-rounded:after {
+  content: "";
+  width: 14px;
+  height: 2px;
+  display: block;
+  background: #fff;
+  position: absolute;
+  transform: translate(-50%, 0) rotate(90deg);
+  left: 50%;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Button Rounded",
+  "description": "Button to click",
+  "type": "atom",
+  "stability": "stable",
+  "assets": {
+    "html": [
+      "part-2/patterns/atoms/button-rounded/button-rounded.html"
+    ],
+    "css": [
+      "part-2/patterns/atoms/button-rounded/button-rounded.css"
+    ]
+  }
+}
